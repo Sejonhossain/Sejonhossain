@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="[PORTFOLIO_URL]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/sejon-hossain-702029264/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[YOUR_EMAIL]">
@@ -157,7 +157,7 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github" alt="Database and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" alt="Database and Tools" />
 </p>
 
 ---
