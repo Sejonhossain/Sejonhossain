@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Md Sejon Hossain</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Software+Engineer;ML%2FDL+%26+AI+Enthusiast;Robotics+%26+IoT+Builder" alt="Typing SVG" />
