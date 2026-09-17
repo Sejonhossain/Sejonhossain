@@ -130,17 +130,10 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
 
 **Tech Stack:** Embedded C++ · IoT · pH · Turbidity & TDS Sensors · Web Dashboard
 
----
-
-## 💻 Other Projects
-
-### 📱 Smartphone Recommendation System
-**Java · OOP**
-
-### 🎬 Movie Recommendation System
-**MySQL · Database**
+[🔗 View Paper](YOUR_FIRE_FIGHTING_PAPER_LINK)
 
 ---
+
 
 ## 🛠️ Languages & Tools
 
