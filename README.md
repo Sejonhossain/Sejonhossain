@@ -20,7 +20,4 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
----
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
-</p>
