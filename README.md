@@ -45,17 +45,18 @@ Here are some ideas to get you started:
 
 Over the past few years, that mindset has taken me from **web development 🌐** to **machine learning & deep learning 🤖**, and then to **robotics & IoT 🔥💧**. I enjoy exploring different areas of technology and following the problem wherever it leads.
 
-Currently, I'm focusing on **full-stack development** while exploring **LLM & RAG systems**, with a long-term goal of building **real, AI-powered products** that go beyond prototypes and create meaningful value. I enjoy collaborating with others, solving problems as a team, and building things from the ground up.
+Currently, I'm focusing on exploring **LLM & RAG systems** with a long-term goal of building **real, AI-powered products** that go beyond prototypes and create meaningful value. I enjoy collaborating with others, solving problems as a team, and building things from the ground up.
 
 ---
 
+
 ## 🌱 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" alt="Currently Learning" />
-</p>
+**Full-Stack Development**  
+React · Node.js · Express.js · FastAPI · REST API
 
-**Exploring:** LLM · RAG · REST APIs
+**AI**  
+LLM · RAG
 
 ---
 
@@ -65,10 +66,11 @@ Currently, I'm focusing on **full-stack development** while exploring **LLM & RA
 
 - Developed a multi-role travel platform with **role-based access** for four user types: **Admin, Traveler, Hotel Manager, and Guide**, each with dedicated functionalities and access levels.
 - Implemented a **two-step verification system** where Admin reviews and approves Guide and Hotel Manager credentials before they are **verified and visible to travelers**, ensuring trusted service providers on the platform.
+- Integrated destination discovery, travel packages, hotel stays, and guide booking into a unified platform.
 
-**Tech Stack:** Django · Python · Tailwind CSS · JavaScript · [Database]
+**Tech Stack:** Django · Python · Tailwind CSS · JavaScript ·
 
-[🔗 View Repository](YOUR_DESHGHURI_REPOSITORY_URL)
+[🔗 View Repository]([YOUR_DESHGHURI_REPOSITORY_URL](https://github.com/DipuBanik2024/DeshGhuri))
 
 ---
 
