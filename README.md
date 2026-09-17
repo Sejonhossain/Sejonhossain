@@ -70,7 +70,7 @@ LLM · RAG
 
 **Tech Stack:** Django · Python · Tailwind CSS · JavaScript ·
 
-[🔗 View Repository]([YOUR_DESHGHURI_REPOSITORY_URL](https://github.com/DipuBanik2024/DeshGhuri))
+[🔗 View Repository](https://github.com/DipuBanik2024/DeshGhuri)
 
 ---
 
@@ -81,7 +81,7 @@ LLM · RAG
 
 **Tech Stack:** Django · Python · SQLite · HTML · CSS
 
-[🔗 View Repository](YOUR_TUITION_MEDIA_REPOSITORY_URL)
+[🔗 View Repository](https://github.com/DipuBanik2024/Tuition_Media)
 
 ---
 
@@ -92,6 +92,8 @@ LLM · RAG
 A team-based project focused on **detecting, segmenting, and classifying brain anomalies from 3D MRI images using deep learning**.
 
 **Focus:** 3D MRI · Deep Learning · Medical Imaging · Segmentation · Classification
+
+[🔗 View Repository](https://github.com/nusratnafisa/Brain-DIseases-detection-segmentation-classification)
 
 ---
 
@@ -168,7 +170,7 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
   <a href="[PORTFOLIO_URL]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/sejon-hossain-702029264">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[YOUR_EMAIL]">
