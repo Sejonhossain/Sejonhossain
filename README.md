@@ -157,7 +157,7 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="[PORTFOLIO_URL]">
