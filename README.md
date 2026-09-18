@@ -106,7 +106,7 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
 
 **Tech Stack:** Python · scikit-learn · TensorFlow/Keras · NLTK · pandas · NumPy
 
-[🔗 View Research](YOUR_RESEARCH_LINK)
+[🔗 View Research](https://github.com/Sejonhossain/Comparative-Analysis-of-Machine-Learning-and-Deep-Learning-Models-for-IMDB-Sentiment-Analysis)
 
 ---
 
@@ -117,7 +117,7 @@ A team-based project focused on **detecting, segmenting, and classifying brain a
 
 **Tech Stack:** ESP32 · Arduino Framework · Embedded C++ · WebSocket · ESPAsyncWebServer · mDNS · HTML/CSS/JavaScript
 
-[🔗 View Paper](YOUR_FIRE_FIGHTING_PAPER_LINK)
+[🔗 View Research](https://github.com/Sejonhossain/IoT-Based-Hybrid-Fire-Fighting-Robot-with-Real-Time-Monitoring-and-Control-via-a-Web-Based-Dashboard/tree/main)
 
 ---
 
